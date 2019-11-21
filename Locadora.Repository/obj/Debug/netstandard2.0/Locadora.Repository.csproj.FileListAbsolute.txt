@@ -1,0 +1,12 @@
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\bin\Debug\netstandard2.0\Locadora.Repository.deps.json
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\bin\Debug\netstandard2.0\Locadora.Repository.dll
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\bin\Debug\netstandard2.0\Locadora.Repository.pdb
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\bin\Debug\netstandard2.0\Locadora.Domain.dll
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\bin\Debug\netstandard2.0\Locadora.Domain.pdb
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.csprojAssemblyReference.cache
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.AssemblyInfoInputs.cache
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.AssemblyInfo.cs
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.csproj.CopyComplete
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.dll
+C:\Users\Nicésio Junior\Desktop\Locadora\Locadora.Repository\obj\Debug\netstandard2.0\Locadora.Repository.pdb
